@@ -1,0 +1,57 @@
+/*
+CTC Separate Stylesheet
+Updated: 2017-10-18 03:10:17
+Theme Name: H-Code Child
+Theme URI: http://www.themezaa.com
+Template: h-code
+Author: ThemeZaa
+Author URI: http://www.themezaa.com
+Description: H-Code is a creative, clean, fully responsive, powerful and multipurpose multi page and onepage WordPress and WooCommerce theme with latest web design trends.
+Version: 1.7.1.1508296217
+*/
+
+.indicators-black .active { background-color: #f9c241; border: 2px solid rgba(0, 0, 0, 1); }
+
+/* ===================================
+    Slider background and overlay
+====================================== */
+.slider-overlay{ position: absolute; height: 100%; width: 100%; opacity: 0.0; z-index: 1; top:0; left: 0 }
+
+/* ===================================
+    Slider and parallax typography
+====================================== */
+.slider-subtitle5 {font-size: 50px; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 50px; display: block; line-height: 60px }
+
+
+/* Bootstrap slider indicators */
+.dark-pagination .carousel-indicators .active { background-color: #f9c241;}
+
+/* photography */
+.photography-slider h1 {font-size:90px; letter-spacing:50px; font-weight:600}
+
+/* Go Discover - Custom Code */
+.carousel-indicators.arrow-style-line li .active { background:#f9c241; height:5px; }
+
+/* row */
+.row-padding { padding-top: 20px; padding-bottom: 20px; }
+.heading-bottom-padding { padding-bottom: 0px;}
+/* Carousel separator line*/
+.separator-line.bg-black.no-margin-lr.no-margin-top.sm-margin-bottom-ten { background:#f9c241; height:5px; }
+
+.carousel.slide.no-padding carousel-.square-pagination.light-pagination.dark-navigation.cursor-black.hcode-bootstrap-slider2 .active {
+background:rgba(6,0,7,.6)
+}
+
+.owl-page.active span {
+	background:#f9c241; height:5px;
+}
+
+.gd-tips-slider-bg {
+	padding-top: 60px;
+ 	padding-bottom: 60px;
+}
+
+.gd-column-no-padding {
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
